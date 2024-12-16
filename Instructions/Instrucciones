@@ -9,7 +9,7 @@ Game Rules are as follows:
 4. At the end of this each player will have each of they're scores will be a sum of each of they're try results. 
 5. The player with the biggest accumulated average will win. 
 
----------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Esta es mi primera iteración de trabajo de un bot que he llamado Zeldrice y su propósito es registrar 2 o más jugadores en un partido de hacer creer juego de rol de dados. 
 La forma en que funciona es simple, cada jugador se registra en el orden en que tomarán turnos y uno con la puntuación más alta ganará. 
@@ -20,6 +20,4 @@ Las reglas del juego son las siguientes
 2. Esto sucederá secuencialmente hasta que cada jugador haya obtenido su turno
 3. El proceso se repite hasta que el último jugador haya conseguido tirar 3 veces. 
 4. Al final de esto cada jugador tendrá cada una de sus puntuaciones será una suma de cada uno de los resultados de sus intentos. 
-5. 5. Ganará el jugador con la mayor media acumulada. 
-
-Traducción realizada con la versión gratuita del traductor DeepL.com
+5. Ganará el jugador con la mayor media acumulada. 
