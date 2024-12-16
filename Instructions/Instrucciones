@@ -1,0 +1,25 @@
+This is my first working iteration of a bot I named Zeldrice and it's purpose is to register 2 or more players into a match of make believe dice roll game. 
+The way this works is simple, Each player is registered in the order they will take turns and one with the highest score will win. 
+
+Game Rules are as follows:
+
+1. Each player will utilize the !roll command and will recieve a number in between 1-10 
+2. This will happen sequentially until each player has gotten they're turn
+3. The process is repeated until the last player has gotten to roll 3 times. 
+4. At the end of this each player will have each of they're scores will be a sum of each of they're try results. 
+5. The player with the biggest accumulated average will win. 
+
+---------------------------------------------------------------------------------------
+
+Esta es mi primera iteración de trabajo de un bot que he llamado Zeldrice y su propósito es registrar 2 o más jugadores en un partido de hacer creer juego de rol de dados. 
+La forma en que funciona es simple, cada jugador se registra en el orden en que tomarán turnos y uno con la puntuación más alta ganará. 
+
+Las reglas del juego son las siguientes
+
+1. Cada jugador utilizará el comando !roll y recibirá un número entre 1-10 
+2. Esto sucederá secuencialmente hasta que cada jugador haya obtenido su turno
+3. El proceso se repite hasta que el último jugador haya conseguido tirar 3 veces. 
+4. Al final de esto cada jugador tendrá cada una de sus puntuaciones será una suma de cada uno de los resultados de sus intentos. 
+5. 5. Ganará el jugador con la mayor media acumulada. 
+
+Traducción realizada con la versión gratuita del traductor DeepL.com
